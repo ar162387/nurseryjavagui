@@ -1,0 +1,4 @@
+Order details:
+	Name: Abdur Rehman (0987654321)
+	Item: Pink Lady Apple Tree (APP340)
+	Pot size (inch): 12
